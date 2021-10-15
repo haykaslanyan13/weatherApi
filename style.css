@@ -1,0 +1,66 @@
+.main{
+    width: 320px;
+    height: 620px;
+    margin: 40px auto 0;
+    border: 5px solid #008000;
+    border-radius: 10px;
+    
+}
+
+.inputt{
+    width: 200px;
+    border-radius: 16px 0px 16px 0px;
+    padding: 5px 10px;
+    border: 3px solid green;
+    font-size: 15px;
+    
+}
+
+.input{
+    margin: 50px auto;
+    text-align: center;
+    
+}
+
+.city{
+    margin: 10px auto;
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.newData{
+    margin: 20px auto;
+    color: black;
+    font-style: initial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+}
+
+.temp{
+    font-size: 100px;
+    text-align: center;
+
+}
+
+.sunnyOrCloud{
+    text-align: center;
+}
+
+.image{
+    width: 170px;
+    height: 170px;
+      
+}
+
+.fa-search-location{
+    cursor: pointer;
+    color:green;
+    
+}
+
+body{
+    background-color: lawngreen;
+}
